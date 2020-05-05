@@ -18,7 +18,7 @@ tags:
 A simple python tool to upload files to THBWiki  
 Note that this tool will upload every file in the directory.
 ## Requirements
-just need module [Requests](https://github.com/psf/requests)  
+just need module [Requests](https://github.com/psf/requests)
 ```
 pip install requests
 ```
@@ -37,7 +37,7 @@ Since you need to upload files, you will need at least those permissions:
 
 After creating the bot, just create a **BotToken.txt** in the **main.py** file's
 same directory.  
-The **BotToken.txt** file should be encoded in UTF-8 and like this:  
+The **BotToken.txt** file should be encoded in UTF-8 and like this:
 ```
 botusername=XXXXX
 botpassword=XXXXX
@@ -46,7 +46,7 @@ botpassword=XXXXX
 Then you can run the python file.
 ## Run
 Run the python file.  
-If you set the bot correctly, you will see the terminal shows:  
+If you set the bot correctly, you will see the terminal shows:
 ```
 Login Success
 ```
@@ -56,13 +56,12 @@ The program will upload **everything** in the directory.
 
 After inputting the directory, you can input the upload comment for all files 
 onetime, or you can just leave it blank. It also supports **WikiText**.  
-For example:  
+For example:
 ```
 [[分类:poprication]][[分类:周边图片]]
 ``` 
-
 Terminal will show the status of each file.
 ## Uploading Example
-![example](https://wx1.sinaimg.cn/large/9bd2f91fgy1gefprmju36j20td07babd.jpg)
+![example](../img/post-bg-WBaWC.jpg)
 ## About
 If you have any problem, just contact [User:SunCL](https://thwiki.cc/User:SunCL).
