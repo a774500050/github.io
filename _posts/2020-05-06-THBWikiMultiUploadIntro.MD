@@ -14,7 +14,7 @@ tags:
 
 
 # THBWiki Multi Upload Tool
-[THBWikiMultiUpload](https://github.com/a774500050/THBWikiMultiUpload)
+[THBWikiMultiUpload](https://github.com/a774500050/THBWikiMultiUpload)  
 A simple python tool to upload files to THBWiki  
 Note that this tool will upload every file in the directory.
 ## Requirements
