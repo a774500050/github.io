@@ -62,6 +62,6 @@ For example:
 ``` 
 Terminal will show the status of each file.
 ## Uploading Example
-![example](../img/post-bg-WBaWC.jpg)
+![example](../../../../img/post-img-thbwikimultiupload-runexample.jpg)
 ## About
 If you have any problem, just contact [User:SunCL](https://thwiki.cc/User:SunCL).
